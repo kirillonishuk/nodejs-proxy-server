@@ -1,0 +1,14 @@
+{
+    "development": {
+        "botPort": 3015,
+        "botHost": "localhost",
+        "chatPort": 3016,
+        "chatHost": "localhost"
+    },
+    "production": {
+        "botPort": 3015,
+        "botHost": "localhost",
+        "chatPort": 3016,
+        "chatHost": "193.124.114.63"
+    }
+}
