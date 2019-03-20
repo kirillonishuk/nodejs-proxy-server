@@ -7,8 +7,8 @@
     },
     "production": {
         "botPort": 3015,
-        "botHost": "localhost",
+        "botHost": " 193.124.114.63",
         "chatPort": 3016,
-        "chatHost": "193.124.114.63"
+        "chatHost": "localhost"
     }
 }
